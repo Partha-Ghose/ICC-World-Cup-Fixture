@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_color">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/fragment_bg">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="2dp">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Bangladesh : +06:00"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#356922"
+                    android:textSize="8dp"
+                    android:textStyle="italic" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Afghanistan : +04:30"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#160101"
+                    android:textSize="8dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Australia, Western Australia (WA) : +08:00"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#356922"
+                    android:textSize="8dp"
+                    android:textStyle="italic" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Australia, South Australia (SA) : +09:30"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#160101"
+                    android:textSize="8dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Australia, Northern Territory (NT) : +09:30"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#356922"
+                    android:textSize="8dp"
+                    android:textStyle="italic" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Australia, New South Wales (NSW), Tasmania (TAS), Victoria (VIC), Australian Capital Territory (ACT) with Canberra capital city : +10:00"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#160101"
+                    android:textSize="8dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Australia, Queensland (QLD) : +10:00"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#356922"
+                    android:textSize="8dp"
+                    android:textStyle="italic" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Australia, Lord Howe Island (New South Wales) : +10:30"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#160101"
+                    android:textSize="8dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="India : +05:30"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#356922"
+                    android:textSize="8dp"
+                    android:textStyle="italic" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Pakistan : +05:00"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#160101"
+                    android:textSize="8dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="South Africa : +02:00"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#356922"
+                    android:textSize="8dp"
+                    android:textStyle="italic" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="Sri Lanka : +05:30"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#160101"
+                    android:textSize="8dp"
+                    android:textStyle="italic"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="New Zealand : +12:00"
+                    android:layout_gravity="center_horizontal"
+                    android:textColor="#356922"
+                    android:textSize="8dp"
+                    android:textStyle="italic" />
+
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

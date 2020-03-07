@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ICC World Cup 2019 Features</string>
+        <string name="chatt">Squard</string>
+        <string name="australia">Aaron Finch (CPT),Jason Behrendorff,Alex Carey (WKT),Nathan Coulter-Nile,Pat Cummins,Usman Khawaja,Nathan Lyon,Shaun Marsh,Glenn Maxwell,Kane Richardson,Steve Smith,Mitchell Starc,Marcus Stoinis.David Warner,Adam Zampa</string>
+        <string name="about">Hi,This is ICC World Cup Features 2019 apps.This apps is about cricket.I try for my best and pray for me.</string>
+        <string name="note">If the apps is any problem, Please contact with me.Thanks.</string>
+        <string name="india">Virat Kohli (CPT),Jasprit Bumrah,Yuzvendra Chahal,Shikhar Dhawan,MS Dhoni (WKT),Ravindra Jadeja,Kedar Jadhav,Dinesh Karthik,Bhuvneshwar Kumar,Hardik Pandya,KL Rahul,Mohammed Shami,Vijay Shankar,Rohit Sharma,Kuldeep Yadav</string>
+
+        <string name="newzealand">Kane Williamson (CPT),Tom Blundell,Trent Boult,Colin de Grandhomme,Lockie Ferguson,Martin Guptill,Matt Henry,Tom Latham (WKT),Colin Munro,Jimmy Neesham,Henry Nicholls,Mitchell Santner,Ish Sodhi,Tim Southee,Ross Taylor</string>
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="bangladesh">Mashrafe Mortaza (CPT),Shakib Al Hasan,Liton Das,Mehedi Hasan,Mosaddek Hossain,Rubel Hossain,Tamim Iqbal,Abu Jayed,Mahmudullah,Mohammad Mithun,Mushfiqur Rahim (WKT),Mustafizur Rahman,Sabbir Rahman,Mohammad Saifuddin,Soumya Sarkar</string>
+        <string name="pakistan">Sarfaraz Ahmed (CPT)(WKT),Shaheen Afridi,Hassan Ali,Babar Azam,Mohammad Hafeez,Imam-ul-Haq,Mohammad Hasnain,Shadab Khan,Shoaib Malik,Haris Sohail,Imad Wasim,Fakhar Zaman,Mohammad Amir,Wahab Riaz,Asif Ali</string>
+        <string name="afganistan">Gulbadin Naib (CPT),Asghar Afghan,Aftab Alam,Noor Ali Zadran,Hamid Hassan,Rashid Khan,Mohammad Nabi,Rahmat Shah,Hashmatullah Shahidi,Mohammad Shahzad (WKT),Samiullah Shinwari,Mujeeb Ur Rahman,Dawlat Zadran,Najibullah Zadran,Hazrat Zazai</string>
+
+        <string name="srilanka">Dimuth Karunaratne (CPT),Dhananjaya de Silva,Avishka Fernando,Suranga Lakmal,Lasith Malinga,Angelo Mathews,Kusal Mendis,Jeevan Mendis,Thisara Perera,Kusal Perera (WKT),Nuwan Pradeep,Milinda Siriwardana,Lahiru Thirimanne,Isuru Udana,Jeffrey Vandersay</string>
+
+        <string name="westindies">Jason Holder (CPT),Fabian Allen,Carlos Brathwaite,Darren Bravo,Sheldon Cottrell,Shannon Gabriel,Chris Gayle,Shimron Hetmyer,Shai Hope (WKT),Evin Lewis,Ashley Nurse,Nicholas Pooran,Kemar Roach,Andre Russell,Oshane Thomas</string>
+
+        <string name="southafrica">Faf du Plessis (CPT),Hashim Amla,Quinton de Kock (WKT),,JP Duminy,Aiden Markram,David Miller,Chris Morris,Lungi Ngidi,Andile Phehlukwayo,Dwaine Pretorius,Kagiso Rabada,Tabraiz Shamsi,Dale Steyn,Imran Tahir,Rassie van der Dussen</string>
+        <string name="england">Eoin Morgan (CPT),Moeen Ali,Jonny Bairstow,Jos Buttler (WKT),Tom Curran,Joe Denly,Liam Plunkett,Adil Rashid,Joe Root,Jason Roy,Ben Stokes,David Willey,Chris Woakes,Mark Wood</string>
+
+
+    </resources>

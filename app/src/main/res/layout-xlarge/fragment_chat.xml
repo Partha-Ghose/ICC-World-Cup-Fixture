@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_color">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="5dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/fragment_bg">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_margin="2dp">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="Australia"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/australia"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="Bangladesh"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/bangladesh"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="India"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/india"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="Pakistan"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/pakistan"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="Afghanistan"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/afganistan"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="Sri Lanka"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/srilanka"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="West Indies"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/westindies"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="New Zealand"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/newzealand"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="South Africa"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/southafrica"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:background="#DF5C5C"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:text="England"
+                        android:textSize="35dp"
+                        android:background="#555"
+                        android:gravity="center_horizontal |center_vertical"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="@string/england"
+                        android:textSize="28dp"
+                        android:padding="8dp"
+                        android:gravity="center_vertical |center_horizontal"
+                        />
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
